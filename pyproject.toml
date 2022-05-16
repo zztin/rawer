@@ -94,7 +94,7 @@ coverage = "^5.0.4"
 commitizen = "^1.19.2"
 pre-commit = "^2.2.0"
 # documentation
-mkdocs = "^1.1"
+mkdocs = "^1.2"
 mkdocs-material = "^5.0.1"
 
 [build-system]
